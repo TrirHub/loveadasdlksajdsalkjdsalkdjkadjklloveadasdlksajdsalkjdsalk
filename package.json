@@ -14,6 +14,6 @@
   },
   "devDependencies": {
     "@astrojs/tailwind": "^1.0.0"
-    "saadeghi/daisyui" : "latest" 
+    "@saadeghi/daisyui" : "^latest" 
   }
 }
