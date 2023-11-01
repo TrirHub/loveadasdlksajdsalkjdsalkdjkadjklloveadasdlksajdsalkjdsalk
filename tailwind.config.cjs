@@ -964,5 +964,5 @@ module.exports = {
     'active',
     'disabled',
   ],
-  plugins: [require("daisyui")],
+  plugins: [],
 }
